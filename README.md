@@ -1,9 +1,16 @@
-## Project: Conditionals Unit Project
-## Purpose: Random Number Generator
-## Creator: Em Gibson
-## Date: 11/4/2024
+### Project: Conditionals Unit Project
+### Purpose: Random Number Generator
+### Creator: Em Gibson
+### Date: 11/4/2024
 
+# Art by Joan Stark
 
-image = https://mystickermania.com/cdn/stickers/fortnite/cat-package-512x512.png
+                   _ |\_
+                   \` ..\
+              __,.-" =__Y=
+            ."        )
+      _    /   ,    \/\_
+     ((____|    )_-\ \_-`
+jgs  `-----'`-----` `--`
 
-# Number will be between 1 - 100.
+## Number will be between 1 - 100.
